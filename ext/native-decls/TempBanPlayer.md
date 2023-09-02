@@ -5,11 +5,5 @@ apiset: server
 ## TEMP_BAN_PLAYER
 
 ```c
-void TEMP_BAN_PLAYER(char* playerSrc, char* reason);
+void This Native dont exist anymore
 ```
-
-
-## Parameters
-* **playerSrc**: 
-* **reason**: 
-
